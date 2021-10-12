@@ -23,3 +23,10 @@ Composer
 Twig
 Symfony/http-foundation
 Symfony/routing
+
+Importer le fichier charityPets.sql sur votre BDD
+
+Ensuite, connectez vous avec les identifiants suivants:
+
+email: testUshopp@yopmail.fr
+password: 1234
